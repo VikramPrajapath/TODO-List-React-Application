@@ -1,0 +1,13 @@
+.header {
+  background: linear-gradient(180deg, #b3d9ff 0%, #3083dc 100%);
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  padding: 10px;
+  font-size: 2em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  margin: 0;
+}

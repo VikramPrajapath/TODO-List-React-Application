@@ -1,0 +1,12 @@
+.list {
+  background: linear-gradient(180deg, #b3d9ff 0%, #3083dc 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  margin-top: 40px;
+  border-radius: 10px;
+  padding: 20px;
+  width: 70%;
+  max-width: 600px;
+  margin: 50px auto 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}

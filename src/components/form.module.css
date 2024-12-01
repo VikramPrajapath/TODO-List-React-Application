@@ -1,0 +1,62 @@
+.todoform {
+  background: linear-gradient(180deg, #b3d9ff 0%, #3083dc 100%);
+  border-radius: 10px;
+  padding: 20px;
+  width: 70%;
+  max-width: 600px;
+  margin: 50px auto 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.modernInput {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+  font-size: 16px;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.modernInput:focus {
+  outline: none;
+  border-color: #3083dc;
+  box-shadow: 0 0 5px rgba(48, 131, 220, 0.5);
+}
+
+.modernbutton {
+  display: inline-block;
+  margin: 15px auto;
+  border-radius: 5px;
+  background: linear-gradient(180deg, #b3d9ff 0%, #3083dc 100%);
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  transition: box-shadow 0.3s, transform 0.2s;
+}
+
+.modernbutton:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+.modernbutton:active {
+  background: linear-gradient(180deg, #3083dc 0%, #1a5dbf 100%);
+  transform: translateY(0);
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  width: 100%;
+}
