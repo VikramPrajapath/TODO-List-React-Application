@@ -1,5 +1,7 @@
 # TODO List Application (React + Vue)
 ![image](https://github.com/user-attachments/assets/ad7d3bca-bec7-4cb5-9700-ca6eabf57ef8)
+![image](https://github.com/user-attachments/assets/9a63d9f1-11ad-4a38-a04a-27a70a36d8b9)
+
 
 A simple task management application built using React and Vue.js. This app allows users to add tasks, mark them as completed, delete tasks, and view the total number of tasks and completed tasks.
 
