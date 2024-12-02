@@ -1,9 +1,9 @@
-# TODO List Application (React + Vue)
+# TODO List Application (React + Vite)
 ![image](https://github.com/user-attachments/assets/ad7d3bca-bec7-4cb5-9700-ca6eabf57ef8)
 ![image](https://github.com/user-attachments/assets/9a63d9f1-11ad-4a38-a04a-27a70a36d8b9)
 
 
-A simple task management application built using React and Vue.js. This app allows users to add tasks, mark them as completed, delete tasks, and view the total number of tasks and completed tasks.
+A simple task management application built using React and Vite. This app allows users to add tasks, mark them as completed, delete tasks, and view the total number of tasks and completed tasks.
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple task management application built using React and Vue.js. This app allo
 ## Technologies Used
 
 - **React**: Used for rendering the UI and managing state.
-- **Vue.js**: Used for handling task operations and interactivity.
+- **Vite (v4.5.5)**: For faster development and optimized build process.
 - **CSS**: For styling the application.
 
 ## Installation
@@ -30,7 +30,6 @@ A simple task management application built using React and Vue.js. This app allo
    ```bash
    cd TODO-List-React-Application
 
-
 3. Install the required dependencies:
 
    ```bash
@@ -41,7 +40,7 @@ A simple task management application built using React and Vue.js. This app allo
    ```bash
    npm run dev
 
-Open your browser and go to http://localhost:3000 to view the app.
+5. Open your browser and go to the URL shown in the terminal (typically http://localhost:5173) to view the app.
 
 ## Usage
 
@@ -49,10 +48,12 @@ Open your browser and go to http://localhost:3000 to view the app.
 
 - **Mark as completed** : Click the task to strike to the task to mark it as completed.
 
-- **Delete a task** : Click the trash icon to remove the task.
+- **Delete a task** : Click the cross icon to remove the task.
 
 - **Views** : The application will display the total number of tasks and the number of completed tasks.
 
 ## Contributing
 
 Feel free to fork the repository and create pull requests if you'd like to contribute.
+
+
