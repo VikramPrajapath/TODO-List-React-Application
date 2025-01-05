@@ -17,6 +17,13 @@ A simple task management application built using React and Vite. This app allows
 - **React**: Used for rendering the UI and managing state.
 - **Vite (v4.5.5)**: For faster development and optimized build process.
 - **CSS**: For styling the application.
+- **Deployment**: Vercel
+
+
+
+## Live Demo
+
+Check out the live version of the application here: [ToDo List React App](https://todo-list-react-application-olive.vercel.app/)
 
 ## Installation
 
